@@ -75,7 +75,8 @@ Le projet est structuré de la manière suivante :
 <img width="950" alt="image" src="https://github.com/killer-beep07/Gestion-EJB/assets/130712993/3c588177-1744-4065-a347-7cbac96ce9da">
 
 # Filtrage
-<img width="946" alt="image" src="https://github.com/killer-beep07/Gestion-EJB/assets/130712993/b283b82b-a9da-4b22-9ef9-f8cba6fa2413">
-<img width="946" alt="image" src="https://github.com/killer-beep07/Gestion-EJB/assets/130712993/d5a7f7ed-0399-4201-9a27-872fe7214b85">
+<img width="952" alt="image" src="https://github.com/killer-beep07/Gestion-EJB/assets/130712993/46afece0-ecf6-4985-a6a9-9297371de525">
+<img width="947" alt="image" src="https://github.com/killer-beep07/Gestion-EJB/assets/130712993/ef778361-3560-49bb-b809-21f077ecf89a">
+
 
 
